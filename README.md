@@ -1,2 +1,2 @@
 # dummy
-dummy project
+dummy project new
